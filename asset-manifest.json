@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pagerduty-event-counter/static/js/main.bef4cd74.js",
+    "main.js": "/pagerduty-event-counter/static/js/main.0476b5e2.js",
     "index.html": "/pagerduty-event-counter/index.html",
-    "main.bef4cd74.js.map": "/pagerduty-event-counter/static/js/main.bef4cd74.js.map"
+    "main.0476b5e2.js.map": "/pagerduty-event-counter/static/js/main.0476b5e2.js.map"
   },
   "entrypoints": [
-    "static/js/main.bef4cd74.js"
+    "static/js/main.0476b5e2.js"
   ]
 }
